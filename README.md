@@ -19,8 +19,7 @@ A Aency foi fundada em 2022 por Gabriel, com a missão de desenvolver soluções
 
 # Produtos
 A Aency é conhecida principalmente pelo seu servidor no Discord, mas também pelo seus aplicativos desenvolvidos em Python. Seus produtos incluem:
-* **aency.app**: Um aplicativo CLI que permite a execução de comandos personalizados utilizando o Ansh, como uma substituição para o Bash ou Zsh.
-* **Shanny**: Um terminal moderno e completo para sistemas que utilizam o kernel Linux, principalmente usado para a execução do Ansh.
+* **aency.app**: Um aplicativo CLI que permite a execução de comandos personalizados utilizando o Aensh, como uma substituição para o Bash ou Zsh.
 * **AnyScript**: a linguagem AnyScript, com seu interpretador e linguagem que contém comandos específicos, focados em matemática, manipulação de texto, geração aleatória, entre outros.
 
 # Filosofia
