@@ -12,14 +12,14 @@
 </div>
 
 # Sobre Nós:
-**Aency Co.** é um projeto inovador e incrível, fundado por Gabriel. A Aency tem como objetivo principal criar aplicativos. Os seus aplicativos geralmente são escritos em Python, quase sempre em CLI (*Interface de Linha de Comando*).
+**Aency Co.** é um projeto inovador e incrível, fundado por Gabriel. A Aency tem como objetivo principal criar softwares e aplicativos. Os seus aplicativos geralmente são escritos em Python ou em Rust, quase sempre em CLI (*Interface de Linha de Comando*).
 
 # História
-A Aency foi fundada em 2022 por Gabriel, com a missão de desenvolver soluções de software inovadoras que facilitassem a vida dos usuários de uma maneira simples. Desde o início, a empresa focou em criar aplicativos robustos e fáceis de usar, utilizando principalmente a linguagem Python.
+A Aency foi fundada em 2022 por Gabriel, com a missão de desenvolver soluções de software inovadoras que facilitassem a vida dos usuários de uma maneira simples. Desde o início, a empresa focou em criar aplicativos robustos e fáceis de usar, utilizando principalmente a linguagem Python e a linguagem Rust.
 
 # Produtos
-A Aency é conhecida principalmente pelo seu servidor no Discord, mas também pelo seus aplicativos desenvolvidos em Python. Seus produtos incluem:
-* **aency.app**: Um aplicativo CLI que permite a execução de comandos personalizados utilizando o Aensh, como uma substituição para o Bash ou Zsh.
+A Aency é conhecida principalmente pelo seu servidor no Discord, mas também pelo seus aplicativos desenvolvidos em Python ou em Rust. Veja alguns exemplos abaixo:
+* **aensh**: Uma substituição amigável ao Bash, Zsh e Fish para novas pessoas no mundo de terminais.
 * **AnyScript**: a linguagem AnyScript, com seu interpretador e linguagem que contém comandos específicos, focados em matemática, manipulação de texto, geração aleatória, entre outros.
 
 # Filosofia
