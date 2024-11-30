@@ -1,4 +1,6 @@
-<img src="https://aencyold.netlify.app/cdn/img/aency_banner_rc.png" alt="Aency Banner">
+<div align="center">
+  <img src="https://aencyold.netlify.app/cdn/img/aency_banner_rc.png" alt="Aency Banner" width="50%">
+</div>
 
 # Troféus
 ![](https://github-profile-trophy.vercel.app/?username=aencyco&theme=radical&no-frame=true&no-bg=true&margin-w=4)
