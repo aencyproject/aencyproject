@@ -11,21 +11,6 @@
 	</p>
 </div>
 
-# Sobre Nós:
-**Aency Co.** é um projeto inovador e incrível, fundado por Gabriel. A Aency tem como objetivo principal criar softwares e aplicativos. Os seus aplicativos geralmente são escritos em Python ou em Rust, quase sempre em CLI (*Interface de Linha de Comando*).
-
-# História
-A Aency foi fundada em 2022 por Gabriel, com a missão de desenvolver soluções de software inovadoras que facilitassem a vida dos usuários de uma maneira simples. Desde o início, a empresa focou em criar aplicativos robustos e fáceis de usar, utilizando principalmente a linguagem Python e a linguagem Rust.
-
-# Produtos
-A Aency é conhecida principalmente pelo seu servidor no Discord, mas também pelo seus aplicativos desenvolvidos em Python ou em Rust. Veja alguns exemplos abaixo:
-* **aensh**: Uma substituição amigável ao Bash, Zsh e Fish para novas pessoas no mundo de terminais.
-* **AnyScript**: a linguagem AnyScript, com seu interpretador e linguagem que contém comandos específicos, focados em matemática, manipulação de texto, geração aleatória, entre outros.
-
-# Filosofia
-A filosofia da Aency é criar softwares que sejam, simples de usar, eficientes, confiáveis e gratuitos. O projeto valoriza a inovação e está constantemente buscando novas maneiras de melhorar seus produtos e atender melhor seus usuários. <br><br>
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-
 # Troféus
 ![](https://github-profile-trophy.vercel.app/?username=aencyco&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <br><br>
